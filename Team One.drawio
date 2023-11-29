@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T22:10:28.074Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="urB93_Z93kkuWyrWVNMr" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T22:13:23.078Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="H5Fzsx_2C-081fveqLBr" version="22.1.5" type="github">
   <diagram name="Page-1" id="gzVRXibs-2J19YMInExY">
     <mxGraphModel dx="1275" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="BSNR5_jXF32KmeUZUF7c-5" value="Computer/Laptop" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="1" vertex="1">
           <mxGeometry x="220" y="477.3" width="62.400000000000006" height="62.400000000000006" as="geometry" />
         </mxCell>
-        <mxCell id="BSNR5_jXF32KmeUZUF7c-6" value="&lt;span style=&quot;background-color: rgb(24, 20, 29);&quot;&gt;WiFi Access Point&lt;/span&gt;" style="html=1;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=image;pointerEvents=1;points=[];aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="BSNR5_jXF32KmeUZUF7c-6" value="WiFi Access Point" style="html=1;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=image;pointerEvents=1;points=[];aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="300" y="317" width="77.6" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BSNR5_jXF32KmeUZUF7c-7" value="Tablet" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Tablet.svg;" parent="1" vertex="1">
